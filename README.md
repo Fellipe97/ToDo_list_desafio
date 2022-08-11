@@ -4,7 +4,7 @@
     Curso: React Native <br/>
     Trilha: 2022
 </h2>
-<center>
+
     <h1><u>Desafio</u>: To do list</h1>
     <p>
         Nesse modulo pratiquei todo o conhecimento que obtive na trilha de "React Native 2022" no modulo
@@ -16,8 +16,10 @@
             <li>Remover uma tarefa da listagem</li>
             <li>Mostrar o progresso de conclusão das tarefas</li>
         </ul>
-
+    
+    <p>
         Apesar de serem poucas funcionalidades, você vai precisar relembrar conceitos como:
+
         <ul>
             <li>Estados</li>
             <li>Imutabilidade do estado</li>
@@ -26,5 +28,6 @@
             <li>Componentização</li>
         </ul>
     </p>
+    
     <h1><b>Resultado:</b></h1>
-</center>
+
