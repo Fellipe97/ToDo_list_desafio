@@ -36,10 +36,5 @@
     <img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela2.jpeg" alt="Tela1" width="300" height="500">
 </div>
 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
+
 
