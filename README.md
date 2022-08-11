@@ -3,6 +3,7 @@
     Ignite <br/>
     Curso: React Native <br/>
     Trilha: 2022
+    Link do curso: https://www.rocketseat.com.br/             (RECOMENDO MUITO)
 </h2>
 
 <h1><u>Desafio</u>: To do list</h1>
@@ -31,4 +32,5 @@
 
 <h1><b>Resultado:</b></h1>
 <img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela1.jpeg" alt="Tela1" width="300" height="500">
+<img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela2.jpeg" alt="Tela1" width="300" height="500">
 
