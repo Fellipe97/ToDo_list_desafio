@@ -2,8 +2,8 @@
 <h2>
     Ignite <br/>
     Curso: React Native <br/>
-    Trilha: 2022
-    Link do curso: https://www.rocketseat.com.br/             (RECOMENDO MUITO)
+    Trilha: 2022<br/>
+    Link do curso (RECOMENDO MUITO): https://www.rocketseat.com.br/             
 </h2>
 
 <h1><u>Desafio</u>: To do list</h1>
