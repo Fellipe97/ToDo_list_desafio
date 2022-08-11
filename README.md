@@ -30,5 +30,5 @@
 </p>
 
 <h1><b>Resultado:</b></h1>
-<img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela1.jpeg" alt="Minha Figura">
+<img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela1.jpeg" alt="Tela1" width="300" height="400">
 
